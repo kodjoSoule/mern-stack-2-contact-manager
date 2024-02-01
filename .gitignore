@@ -1,0 +1,8 @@
+# Ignore common files and directories
+.DS_Store
+node_modules/
+dist/
+coverage/
+*.log
+*.pyc
+__pycache__/
